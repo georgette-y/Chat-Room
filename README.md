@@ -4,7 +4,7 @@ this is a local chat room made with python .
 
 ## Note!
 
-Please do not forget to change SERVER_IP_ADR which is a variable that holds the local ip adress of the host to your own ip adress as you will be the host of this chat room. 
+Please do not forget to change SERVER_IP_ADR which is a variable that holds the local ip address of the host to your own ip address as you will be the host of this chat room. 
 
 ## How to use:
 
